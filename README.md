@@ -1,7 +1,7 @@
 # HPCalculatorChess
 A chess game implemented on/for the HP Prime Graphing Calculator using its api and programming language (HP PPL.)
 
-The program is structured around the con-
+<pre>The program is structured around the con-
 cept of processing user or intelligent a-
 gent (i.a.) input affecting the game's 
 state, and updating the user interface ba-
@@ -9,7 +9,7 @@ sed on said state as the user or i.a. in-
 put loop is consumed by the program. This
 concept is commonly known as the model, 
 view, controller (MVC) software design pa-
-ttern.
+ttern.</pre>
 
 The main four (4) program functions are:
 
@@ -26,7 +26,7 @@ a_ppi:   Processes user or i.a. input and
          affects the game's current state 
          accordingly (controller.)</pre>
 
-This program was designed, implemented and
+<pre>This program was designed, implemented and
 tested during  the  2020  global  COVID-19
 pandemic in  Brooklyn and  Manhattan, NYC,
-U.S.A. Please remember to  wear your mask!
+U.S.A. Please remember to  wear your mask!</pre>
