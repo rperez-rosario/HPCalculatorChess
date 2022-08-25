@@ -1,6 +1,8 @@
 # HPCalculatorChess
 A chess game implemented on/for the HP Prime Graphing Calculator using its api and programming language (HP PPL.)
 
+https://www.youtube.com/shorts/HLDzqyRd3_Y
+
 <pre>The program is structured around the con-
 cept of processing user or intelligent a-
 gent (i.a.) input affecting the game's 
