@@ -13,7 +13,7 @@ ttern.
 
 The main four (4) program functions are:
 
-a_chess: Main program/entry point. Calls
+<pre>a_chess: Main program/entry point. Calls
          the other main functions, and 
          implements and executes the pla-
          yer's and/or i.a.'s input loop. 
@@ -24,9 +24,9 @@ a_pui:   Prints the game's user interface
          te (view.)
 a_ppi:   Processes user or i.a. input and
          affects the game's current state 
-         accordingly (controller.)
+         accordingly (controller.)</pre>
 
-// This program was designed, implemented and
-// tested during  the  2020  global  COVID-19
-// pandemic in  Brooklyn and  Manhattan, NYC,
-// U.S.A. Please remember to  wear your mask!
+This program was designed, implemented and
+tested during  the  2020  global  COVID-19
+pandemic in  Brooklyn and  Manhattan, NYC,
+U.S.A. Please remember to  wear your mask!
