@@ -31,52 +31,6 @@
 //          affects the game's current state 
 //          accordingly (controller.)
 
-// This program was designed, implemented and
-// tested during  the  2020  global  COVID-19
-// pandemic in  Brooklyn and  Manhattan, NYC,
-// U.S.A. Please remember to  wear your mask!
-
-// Thanks to my  blood and legal family, fri-
-// ends, *Tiger Team Alpha*  PR, UK, and  NYC
-// (you   know  who   you   are),  workmates,
-// bosses/mentors,    recruiters,   teachers,
-// professors, and  fellow  students   at Co-
-// legio San Antonio,  Colegio San José, Uni-
-// versidad   de  Puerto   Rico,  Universidad
-// Politécnica, Universidad del  Sagrado  Co-
-// razón, and  the University of  Sussex. Big
-// thanks to my medical  doctors   and every-
-// one  else  who  has  ever believed  in me,
-// thus  making this humble piece of work po-
-// ssible.  To  the  awe  inspiring  authors,
-// scientists, mathematicians, musicians, and
-// other thinkers: G. Leibniz, C. Babbage, A.
-// Lovelace,  A. Turing,   S. Russell, P.Nor-
-// vig,   M. Minsky,  D. Knuth,  the GoF,  T.
-// Holland,     I. Asimov,    W. Gibson,   C.
-// Alexander, K. Popper,  R. Wagner,   R. Wa-
-// ters, L. Saidier,  J. Mercer,  G. Rhys, E.
-// Vedder,  G. Cerati,  F. Mercury,  P. Town-
-// shend, B. Eno, K. Goodman,  C. Ramone,  D.
-// Bowie, P. Macartney,  J. Christ, T.H. Spi-
-// rit, and F.W. Nietzsche.
-
-// Thank you Mrs. Larson  and  Mr. Maldonado!
- 
-// In loving memory of  Mr. Aníbal Rodríguez,
-// my  biological  parents  Rafael Pérez  and
-// Evelyn Rosario,   and    my   grandparents
-// Anselmo Rosario,  Luz Ortiz,  María Pérez,
-// and  Herminio Pérez.  May they have  found
-// peace   wherever,  whenever  and  whatever
-// they've  become  in  this,  or  any  other
-// universe(s).
-
-// Disclaimer:   This   software was  written
-// using 100%  recycled  electrons, and   not
-// that   many   bugs   were  harmed   during
-// its  design,  implementation  or  testing.
-
 // a_gst: Game state.
 // Copyright © Rafael Pérez 2020.
 // rperezrosario@outlook.com.
@@ -2649,56 +2603,7 @@ BEGIN
           ylim-sqsz));
       END;
     END; 
-  END;
-  // DESIDERATA
-  //
-  // "Go  placidly  amid the noise  and haste
-  // and remember what  peace there may be in
-  // silence. As far as  possible without su-
-  // rrender be on  good  terms with all per-
-  // sons.  Speak  your   truth   quietly and
-  // clearly; and  listen to others, even the
-  // dull and  ignorant; they  too have their
-  // story. *Avoid  loud and  aggresive  per-
-  // sons, they are  vexations to the spirit.
-  // If you  compare yourself with others you
-  // will become vain and bitter; for  always
-  // there will be  greater and   lesser per-
-  // sons than yourself. Enjoy  your achieve-
-  // ments as well as  your  plans. *Keep in-
-  // terested in   your  own  career, however
-  // humble; it is a   real  possesion in the
-  // changing fortunes of time. Exercise cau-
-  // ion in  your  business  affairs; for the
-  // world  is full of trickery. But let this
-  // not  blind  you to what virtue there is;
-  // many persons strive for high ideals; and
-  // everywhere life is full of  heroism. *Be
-  // yourself.  Especially  do  not  feign a-
-  // ffection. Neither be cynical about love;
-  // for in the face of  all aridity and dis-
-  // enchantment it  is  as  perennial as the
-  // grass. *Take kindly the  counsel  of the
-  // years,   gracefully   surrendering   the
-  // things  of   youth. Nurture  strength of
-  // spirit  to  shield  you in  sudden  mis-
-  // fortune. But do  not  distress  yourself
-  // with  imaginings. Many  fears  are  born
-  // of  fatigue  and   loneliness.  Beyond a
-  // wholesome   discipline,  be  gentle with
-  // yourself. *You are  a  child of the uni-
-  // verse, no  less than the  trees  and the
-  // stars; you have the  right  to be  here.
-  // And whether  or not it is  clear to you,
-  // no doubt the universe is unfolding as it
-  // should. *Therefore be at peace with God,
-  // what  ever you  conceive  him to be, and
-  // whatever your labors and  aspirations in
-  // the noisy  confusion of life, keep peace
-  // with  your  soul. *With  all  its  sham,
-  // drudgery and  broken  dreams it is still
-  // a  beautiful  world. Be  careful. Strive
-  // to be happy." 
+  END; 
 END;
 
 // a_svpmro: Set valid piece moves, rook.
