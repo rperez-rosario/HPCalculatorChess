@@ -31,8 +31,3 @@ a_pui:   Prints the game's user interface
 a_ppi:   Processes user or i.a. input and
          affects the game's current state 
          accordingly (controller.)</pre>
-
-<pre>This program was designed, implemented and
-tested during  the  2020  global  COVID-19
-pandemic in  Brooklyn and  Manhattan, NYC,
-U.S.A. Please remember to  wear your mask!</pre>
